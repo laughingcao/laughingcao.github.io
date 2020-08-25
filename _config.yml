@@ -1,11 +1,11 @@
 # Site settings
-author: William T Cao
-title: 
+author: Will Cao
+title: Software Engineering
 header-img: img/home-bg.png
 email: williamacao@gmail.com
-copyright_name: William T Cao
+copyright_name: Will Cao
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning one code at a time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  laughingcao
